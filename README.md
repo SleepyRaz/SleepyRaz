@@ -1,4 +1,4 @@
-<h3><b>Hey, Im Sleepy (or Raz)</b></h3>
+<h3><b>Hey, I'm Sleepy (or Raz)</b></h3>
 <h4>👋 Welcome to my side of the internet</h4>
 <h4>😔 I'm a Student, Gamer, Developer, and Game Developer</h4>
 <h4>📫 Email: <a href="mailto:sleepyrazz@gmail.com">sleepyrazz@gmail.com</a></h4>
