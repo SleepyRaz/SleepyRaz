@@ -8,7 +8,7 @@
     <img alt="lanyard" src="https://lanyard.cnrad.dev/api/321798617776259073"/>
 </a>
 
-<h4>🛠️ My Programming Skills Consest Of</h4>
+<h4>🛠️ My Skills Consest Of</h4>
 <ul>
     <li>Programming Languages: JavaScript, Java, C#, Lua</li>
     <li>Frameworks: Discord.js, Bootstrap</li>
