@@ -5,7 +5,7 @@
 <hr/>
 
 <a href="https://pogatory.com">
-    <img alt="lanyard" src="https://lanyard.cnrad.dev/api/321798617776259073"/>
+    <img alt="lanyard" src="https://lanyard-visualizer.netlify.app/321798617776259073"/>
 </a>
 
 <h4>🛠️ My Skills Consist Of</h4>
