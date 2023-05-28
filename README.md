@@ -4,9 +4,7 @@
 <h4>📫 Email: <a href="mailto:sleepyrazz@gmail.com">sleepyrazz@gmail.com</a></h4>
 <hr/>
 
-<a href="https://pogatory.com">
-    <img alt="lanyard" src="https://lanyard.cnrad.dev/api/321798617776259073"/>
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/321798617776259073)](https://discord.com/users/321798617776259073)
 
 <h4>🛠️ My Skills Consist Of</h4>
 <ul>
