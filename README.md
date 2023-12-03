@@ -11,13 +11,13 @@
 
 <h4>🛠️ My Skills Consist Of</h4>
 <ul>
-    <li>Programming Languages: JavaScript, Java, C#, Lua</li>
+    <li>Programming Languages: C#, Lua</li>
     <li>Frameworks: Discord.js, Bootstrap</li>
     <li>Tools: Git, Docker</li>
     <li>IDEs: IntelliJ IDEA, Visual Studio</li>
     <li>Engines: Unity</li>
     <li>Etc: Visual Studio Code, Cloudflare, OCI, Spigot, Purpur</li>
-    <li>Currently Learning: TailwindCSS, React.js, Node.js</li>
+    <li>Currently Learning: JavaScript, Java, & Godot</li>
     <li>Plan on learning: UE4/UE5, C++, and AWS</li>
 </ul>
 
