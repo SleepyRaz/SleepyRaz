@@ -15,9 +15,9 @@
     <li>Frameworks: Discord.js, Bootstrap</li>
     <li>Tools: Git, Docker</li>
     <li>IDEs: IntelliJ IDEA, Visual Studio</li>
-    <li>Engines: Unity</li>
+    <li>Engines: Unity & Godot</li>
     <li>Etc: Visual Studio Code, Cloudflare, OCI, Spigot, Purpur</li>
-    <li>Currently Learning: JavaScript, Java, & Godot</li>
+    <li>Currently Learning: JavaScript, Java</li>
     <li>Plan on learning: UE4/UE5, C++, and AWS</li>
 </ul>
 
