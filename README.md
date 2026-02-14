@@ -11,7 +11,7 @@
     <li>Tools: Git, Docker</li>
     <li>IDEs: IntelliJ IDEA, Visual Studio</li>
     <li>Engines: Unity & Godot</li>
-    <li>Etc: Visual Studio Code, Cloudflare, OCI, Spigot, Purpur</li>
+    <li>Etc: Visual Studio Code, Cloudflare, Bloock Bench, Blender</li>
     <li>Currently Learning: JavaScript, Java</li>
     <li>Plan on learning: UE4 & C++</li>
 </ul>
